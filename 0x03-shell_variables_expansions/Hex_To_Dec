@@ -1,0 +1,4 @@
+# echo $((16#FF));
+# echo printf "%d\n" 0xFF;
+
+# Results: 225 (in base 10)
